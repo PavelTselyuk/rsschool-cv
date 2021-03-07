@@ -1,19 +1,19 @@
-#My CV
+# My CV
 ***
 ## Tselyuk Pavel
-###Contacts: 1. e-mail: pavlik_astap@mail.ru
+### Contacts: 1. e-mail: pavlik_astap@mail.ru
              2. LinkedIn: [https://www.linkedin.com/in/pavel-tselyuk-71892b1a2/]:https://www.linkedin.com/in/pavel-tselyuk-71892b1a2/
 ***
-###About me:
+### About me:
   I'm a student in Belarusian National Technical University for a developer and hope to become one :) For some time I learned JS by myself, but that wasn't enough, so here i am.
   ***
-  ###My skills:
+  ### My skills:
     - HTML, CSS
     - JavaScript
     - React
 ***
-###Code Example:
-        ```javascript
+### Code Example:
+``` 
         class SignIn extends Component {
    constructor(props) {
       super(props);
@@ -85,9 +85,9 @@ export default compose(
    connect(mapStateToProps, actions),
    reduxForm({ form: 'signin' })
 )(SignIn)
-        ```
+```
   ***
-  ###Education:
+  ### Education:
   I study in BNTU for a developer. I've passed VRP Consulting courses for Apex programming language. I learned JS for some time on my own.
-  ###English level:
+  ### English level:
   I attended Streamline courses and my english level is about B1+.
