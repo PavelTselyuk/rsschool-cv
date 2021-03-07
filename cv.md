@@ -3,7 +3,7 @@
 ## Tselyuk Pavel
 ### Contacts: 
   1. e-mail: pavlik_astap@mail.ru
-  2. LinkedIn: [https://www.linkedin.com/in/pavel-tselyuk-71892b1a2/]https://www.linkedin.com/in/pavel-tselyuk-71892b1a2/
+  2. LinkedIn: [Pavel Tselyuk](https://www.linkedin.com/in/pavel-tselyuk-71892b1a2/)
 ***
 ### About me:
   I'm a student in Belarusian National Technical University for a developer and hope to become one :) For some time I learned JS by myself, but that wasn't enough, so here i am.
