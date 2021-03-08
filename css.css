@@ -1,0 +1,43 @@
+body {
+    margin-left: auto;
+    margin-right: auto;
+    width: 65%;
+    background-color: aquamarine;
+}
+
+header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+section{
+    margin-bottom: 15px;
+}
+
+.myphoto{
+    height: 20vw;
+    margin-right: 20px;
+    border-radius: 20%;
+}
+
+article{
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    flex-direction: column;
+}
+
+main{
+    display: flex;
+    justify-content: space-between;
+}
+
+.left-side{
+    flex-basis: 35%;
+}
+
+.right-side{
+    flex-basis: 50%;
+    max-width: 60%;
+}
